@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d78b6014-d9f3-4dcd-98c5-bf98b761f9fa)# Novus_Arduino
+# Novus_Arduino
 Documentation for Arduino control of Novus 1020 temperature controllers
 
 Due to the lack of finding other documentation for this process and also for something to refer back to, Ihave compiled the steps required to interface an arduino through SoftwareSerial to a Novus 1020 temperature controller
