@@ -8,7 +8,7 @@ https://www.novusautomation.com/en/product/controllers/n1020
 
 * [NOVUS1020 setup](#novus1020-setup)
 * [Arduino IDE Setup](#arduino-ide-setup)
-
+* [Wiring](#wiring)
 
 
 ## NOVUS1020 setup
@@ -41,6 +41,16 @@ Once installed you can open and run the attached script for a simple interface f
 The register tables can be found under the downloads section on the Novus Automation webpage (listed above)
 
 ![image](https://github.com/user-attachments/assets/989fefac-3807-455c-b840-319f5a6162d7)
+
+## Wiring
+
+The example code is desigend for the following wiring from the Arduino -> MAX485 - TTL UART to RS485 Converter -> Novus 1020
+
+![Ardunio and Novus](https://github.com/user-attachments/assets/5804ce4e-1967-4693-8d6d-a50349788481)
+
+RS-485 module link
+
+https://core-electronics.com.au/ttl-uart-to-rs485-converter-module.html
 
 Credit:
 
